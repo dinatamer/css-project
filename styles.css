@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+nav{ 
+   display:inline; 
+   background-color: grey;
+   text-align:center;
+   font-size:20px;
+   margin: 280px;
+   padding-left: 310px;
+   padding-right: 310px;
+   word-spacing: 20px;
+  }   
+
+  *{
+    font-family: 'Roboto', sans-serif;
+  }
+
+  div1{
+    text-align: center;
+    display: inline-block;
+  }
+
+  .hi{
+    list-style: none;
+    color: blue;
+    font-style: italic;
+    text-decoration: underline;
+  }
+
+  .learn{
+    color: gray;
+    text-decoration: underline;
+    font-style: italic;
+  }
+
+  .mail{
+    color: blue;
+    text-decoration: underline;
+  }
+
+  .mob{
+    color: blue;
+    text-decoration: underline;
+  }
